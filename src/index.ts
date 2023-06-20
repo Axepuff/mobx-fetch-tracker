@@ -1,1 +1,1 @@
-export { FetchTracker } from './core/FetchTracker';
+export * from './core/FetchTracker';

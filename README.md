@@ -1,5 +1,7 @@
 # mobx-fetch-tracker
-Easy way to deal with request processing
+_Easy way to deal with request processing_
+
+[![npm](https://img.shields.io/npm/v/mobx-fetch-tracker)](https://www.npmjs.com/package/mobx-fetch-tracker)
 
 # Installation & Usage
 

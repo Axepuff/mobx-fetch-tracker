@@ -1,0 +1,42 @@
+{
+  "name": "mobx-fetch-tracker",
+  "version": "1.0.0",
+  "description": "Easy way to deal with request processing",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axepuff/mobx-fetch-tracker.git"
+  },
+  "keywords": [
+    "mobx",
+    "fetch",
+    "request",
+    "pending",
+    "util",
+    "react",
+    "typescript"
+  ],
+  "author": "axepuff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Axepuff/mobx-fetch-tracker/issues"
+  },
+  "homepage": "https://github.com/Axepuff/mobx-fetch-tracker#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/parser": "^5.60.0",
+    "eslint": "^8.43.0",
+    "mobx": "^6.9.0",
+    "typescript": "^5.1.3"
+  },
+  "peerDependencies": {
+    "mobx": "^6.0.0"
+  },
+  "dependencies": {
+    "ts-utils": "^6.1.0"
+  }
+}
